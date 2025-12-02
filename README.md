@@ -78,12 +78,12 @@ This project demonstrates a comprehensive Cisco ASA 5506-X firewall configuratio
 ## 💻 Configuration Screenshots
 
 <div align="center">
-  <img src="assets/cli-config.png" alt="ASA DHCP and SSH Configuration" width="800"/>
+  <img src="assets/sshimg.png" alt="ASA DHCP and SSH Configuration" width="800"/>
   <p><em>Complete ASA configuration with DHCP pools and SSH setup</em></p>
 </div>
 
 <div align="center">
-  <img src="assets/sshimgs.png" alt="SSH Remote Access Test" width="800"/>
+  <img src="assets/proof.png" alt="SSH Remote Access Test" width="800"/>
   <p><em>SSH connectivity test from internal network client</em></p>
 </div>
 
