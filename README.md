@@ -83,12 +83,12 @@ This project demonstrates a comprehensive Cisco ASA 5506-X firewall configuratio
 </div>
 
 <div align="center">
-  <img src="assets/ssh-access.png" alt="SSH Remote Access Test" width="800"/>
+  <img src="assets/sshimgs.png" alt="SSH Remote Access Test" width="800"/>
   <p><em>SSH connectivity test from internal network client</em></p>
 </div>
 
 <div align="center">
-  <img src="assets/dhcp-test.png" alt="DHCP IP Assignment" width="800"/>
+  <img src="assets/dhcpdimg.png" alt="DHCP IP Assignment" width="800"/>
   <p><em>Successful DHCP IP address assignment to clients</em></p>
 </div>
 
